@@ -1,0 +1,4 @@
+gradio==4.26.0
+tweepy==4.14.0
+phi==0.4.0
+google-generativeai==0.5.4
